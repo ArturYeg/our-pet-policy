@@ -1,0 +1,32 @@
+.header{
+    background-color:black;
+    padding-left: 100px; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 100px;
+    display: inline;
+}
+.header img{
+    height: 55px;
+}
+.header .button {
+    float: right;
+    padding-top: 20px;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header a:hover{
+    color: yellow;
+}
+ 
+.header .btn{
+    background-color: yellow;
+    /*float: right;*/
+    width: 180px;
+    border-radius: 20px;
+    font-size: 18px;
+}
