@@ -1,3 +1,7 @@
+*{
+	margin:0;
+	padding: 0;
+}
 .header{
     background-color:black;
     padding-left: 100px; 
@@ -28,4 +32,9 @@
     width: 180px;
     border-radius: 20px;
     font-size: 18px;
+}
+.back img{
+    size: 100%;
+    margin-right: 0px;
+    background-image: url("logo/dog-body-language-scared.jpg");
 }
