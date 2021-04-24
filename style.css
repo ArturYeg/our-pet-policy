@@ -33,8 +33,19 @@
     border-radius: 20px;
     font-size: 18px;
 }
-.back img{
-    size: 100%;
-    margin-right: 0px;
-    background-image: url("logo/dog-body-language-scared.jpg");
+.background{
+    background-image: url(logo/dog-body-language-scared.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
+.background h1{
+    color: orange;
+    font-size: 65px;
+}
+
+.content{
+    background-color:red;
+}
+
+
