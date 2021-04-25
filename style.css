@@ -33,19 +33,48 @@
     border-radius: 20px;
     font-size: 18px;
 }
-.background{
-    background-image: url(logo/dog-body-language-scared.jpg);
-    height: 500px;
+.container{
+    background-image: url(logo/images.jpeg);
+    height: auto;
+    width: auto;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
-.background h1{
+.container h1{
     color: orange;
-    font-size: 65px;
+    font-size:50px;
+    padding-top: 80px;
 }
+ .row h1 , p{
+     padding-left: 80px;
+ }
 
-.content{
-    background-color:red;
-}
+ .row p{
+     font-size: 24px;
+     color: white;
+ }
+ .row .btn{
+    background-color: yellow;
+    width: 180px;
+    border-radius: 20px;
+    margin-left: 80px;
+    font-size: 18px;
+
+ }
+ .containerPolicy .row img{
+     width: 100%;
+     margin-left: 20px;
+     margin-top: 20px;
+ }
+ .containerPolicy .row h1{
+    margin-top: 20px;
+ }
+ .containerPolicy .row p{
+     color: grey;
+     font-size: 22px;
+ }
+
+
+
 
 
